@@ -1,0 +1,17 @@
+[33mcommit 611533b5790e1bda9a9f77179e55e8c84709ad20[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: VitorCostaVianna <vcvianna@sga.pucminas.br>
+Date:   Thu Oct 17 15:55:55 2024 -0300
+
+    Add dependencies versions
+
+[33mcommit 2835fe6e594edc99aa71d9fc7c8c7511414370fe[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: VitorCostaVianna <vcvianna@sga.pucminas.br>
+Date:   Mon Oct 14 21:30:29 2024 -0300
+
+    Configure project
+
+[33mcommit feba6d1082ef83c5ac66dfdf79f620b1782016cd[m
+Author: VitorCostaVianna <vcvianna@sga.pucminas.br>
+Date:   Mon Oct 14 20:15:57 2024 -0300
+
+    Spring Boot Project
